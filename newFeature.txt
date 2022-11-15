@@ -3,3 +3,9 @@ new feature test 2132234234
 new featuere test 2
 
 hot fix changes
+
+
+create release 1.1
+second feature create
+
+bug fix in release
